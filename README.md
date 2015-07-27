@@ -25,4 +25,4 @@ add 'dist/app.min.js' to your website.
 $(element).JsDoIt();
 ````
 
-If you like it, maybe [tweet](http://www.twitter.com/share?url=https://github.com/oskarcieslik/js-do-it&hashtag=JsDoIt) about it? :)
+If you like it, maybe [tweet](http://www.twitter.com/share?url=https://github.com/oskarcieslik/js-do-it&hashtags=JsDoIt) about it? :)
