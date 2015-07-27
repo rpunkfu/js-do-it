@@ -1,0 +1,24 @@
+{
+    "name": "js-do-it",
+    "version": "1.0.0",
+    "description": "Don't let your dreams be dreams.",
+    "main": "dist/app.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oskarcieslik/js-do-it"
+    },
+    "keywords": [
+        "fun",
+        "jquery"
+    ],
+    "author": "Oskar Cieslik",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oskarcieslik/js-do-it/issues"
+    },
+    "devDependencies": {
+        "gulp": "~3.5.0",
+        "gulp-uglify": "~0.2.0",
+        "gulp-concat": "~2.1.7"
+    }
+}
