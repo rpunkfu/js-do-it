@@ -1,0 +1,23 @@
+{
+    "name": "js-do-it",
+    "main": ["dist/app.min.js"],
+    "version": "1.0.0",
+    "homepage": "https://github.com/oskarcieslik/js-do-it",
+    "authors": [
+        "Oskar Cieslik <oskar.cieslik@gmail.com>"
+    ],
+    "description": "Don't let your dreams be dreams.",
+    "keywords": [
+        "fun",
+        "jquery"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "jquery": ">=2.x"
+    }
+}
