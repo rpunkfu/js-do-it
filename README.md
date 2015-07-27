@@ -10,10 +10,10 @@ This is my first attempt at making a jQuery plugin, it's completely for fun ;).
 
 ````
 //Bower
-bower install --save slick-carousel
+bower install --save oskarcieslik/js-do-it
 
 //NPM
-npm install slick-carousel
+npm install oskarcieslik/js-do-it
 
 //Manual
 add 'dist/app.min.js' to your website.
