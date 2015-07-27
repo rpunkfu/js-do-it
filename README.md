@@ -4,6 +4,7 @@ Js Do It - Jquery plugin
 #### Don't let your dreams be dreams. Do it!
 
 This is my first attempt at making a jQuery plugin, it's completely for fun ;).
+[demo](http://jsfiddle.net/adxp9ozv/2/)
 
 #### Installation:
 
