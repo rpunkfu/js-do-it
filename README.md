@@ -1,7 +1,7 @@
 Js Do It - Jquery plugin
 =========
 
-## Don't let your dreams be dreams. Do it!
+# Don't let your dreams be dreams. Do it!
 
 #### Installation:
 
