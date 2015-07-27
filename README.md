@@ -24,4 +24,4 @@ add 'dist/app.min.js' to your website.
 $(element).JsDoIt();
 ````
 
-If you like it, maybe [https://twitter.com/](tweet) about it? :)
+If you like it, maybe [tweet](https://twitter.com/) about it? :)
